@@ -1,0 +1,7 @@
+
+10/3
+1) Data acquisition:-
+
+Completed collecting 10 PDF resumes
+
+2) data ingesting POC
