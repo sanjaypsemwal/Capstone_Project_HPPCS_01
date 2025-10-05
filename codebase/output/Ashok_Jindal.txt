@@ -1,0 +1,35 @@
+Okay, here is a professional resume based on the provided documents:
+
+**Ashok Jindal**
+ashok.jindal@email.com
+(555)123-4567
+Bowersville, OH
+
+**Summary**
+
+Professional and highly trained engineer with 5 years of experience in creating engineering solutions to complex manufacturing problems. With senior engineering roles, led single-source development teams and implemented lean principles and tools.
+
+**Education**
+
+*   **Dalton University Orlando, Florida** – Bachelor’s Degree in Engineering
+    *   Skills: Azure, Communication Skills, Microsoft Office, Linux, Agile, C++, Apis
+
+**Experience**
+
+**Jablito Industries** – Orlando, Florida
+June 2019 – Present
+
+*   Researched a new metric for tracking project performance and success, resulting in a 10% increase in projects completed.
+*   Performed installation of software and hardware in accordance with specifications.
+
+**Test Engineer - Orlando, Florida**
+October 2017
+
+*   Performed quality assurance and testing of applications, ensuring they meet or exceed requirements.
+*   Utilized automated test tools to reduce regression testing by 30%.
+*   Improved application performance by 20% through increased utilization of database indexes and stored procedures.
+*   Developed training materials to provide technical support to new employees on the use of the software.
+
+---
+
+Please note: This resume is constructed solely from the provided documents. It may need further customization based on your specific needs and experience.

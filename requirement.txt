@@ -1,11 +1,6 @@
 pathlib
-pymupdf
-streamlit
-pdfplumber
+pymupdf4llm
 langchain
-langchain_ollama
-langchain_community
 langchain_core
-langchain_text_splitters
-unstructured
-unstructured[all-docs]
+langchain_ollama
+

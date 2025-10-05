@@ -1,0 +1,43 @@
+Okay, here is a professional resume based on the provided information:
+
+**Ram Lal**
+Berkeley, CA
+ral.lal@email.com
+(555)123-4567
+
+**Summary**
+
+Able to work in a team environment and identify issues and make recommendations, analyze issues and find solutions. Six years of experience as a Java developer using the Spring Framework.
+
+**Education**
+
+Zirkel College
+Bachelor’s Degree in Computer Science • Houston, Texas
+
+**Skills**
+
+*   Rest
+*   Sql
+*   Communication Skills
+*   Git
+*   Oracle
+*   Python
+*   Java
+
+**Experience**
+
+**Koala Basement** (May 2019 – Present)
+
+*   Developed and maintained applications using Java and the Spring Framework.
+
+**Mathworks** (December 2015 – Present)
+
+*   Developed a new API, increasing service usage by over 50% within the first month.
+*   Analyzed user-generated data to determine the best user experience.
+
+**Aem Development** (December 2017 – Present)
+
+*   Developed a customer service system for tracking customer orders, shipping details, and payment information through a mobile app.
+*   Implemented a web application for monitoring and analysis of customer relationships, resulting in a 20% increase in customer retention.
+
+**Note:** This resume is based solely on the provided text. It lacks details about specific projects, technologies used, and quantifiable achievements.
