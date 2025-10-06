@@ -1,43 +1,36 @@
-Okay, here is a professional resume based on the provided information:
+Here's the extracted information:
 
-**Ram Lal**
-Berkeley, CA
-ral.lal@email.com
-(555)123-4567
+**Name:** Ram Lal
 
-**Summary**
+**Contact:**
 
-Able to work in a team environment and identify issues and make recommendations, analyze issues and find solutions. Six years of experience as a Java developer using the Spring Framework.
+* Email: ral.lal@email.com
+* Phone: (555)123-4567
 
-**Education**
+**Education:**
 
-Zirkel College
-Bachelor’s Degree in Computer Science • Houston, Texas
+* Zirkel College
+	+ Bachelor’s Degree in Computer Science • Houston, Texas
 
-**Skills**
+**Skills:**
 
-*   Rest
-*   Sql
-*   Communication Skills
-*   Git
-*   Oracle
-*   Python
-*   Java
+* Rest
+* Sql
+* Communication Skills
+* Git
+* Oracle
+* Python
+* Java
 
-**Experience**
+**Experience:**
 
-**Koala Basement** (May 2019 – Present)
+* **Koala Basement** (May 2019 - Present)
+	+ Implemented a new web application for monitoring and analysis of customer relationships, resulting in a 20% increase in customer retention.
+* **Aem Development** (December 2017)
+	+ Designed and implemented a customer service system that allowed for the tracking of customer orders, shipping details and payment information through a mobile app.
+	+ Updated the software to allow for greater customization of the customer experience and increased the number of phone calls handled per hour by 50%.
+* **Mathworks** (December 2015)
+	+ Created a new API for a new service, increasing usage by over 50% within the first month.
+	+ Stored tens of thousands of user-generated data points per day and analyzed them with custom metrics to determine the best user experience.
 
-*   Developed and maintained applications using Java and the Spring Framework.
-
-**Mathworks** (December 2015 – Present)
-
-*   Developed a new API, increasing service usage by over 50% within the first month.
-*   Analyzed user-generated data to determine the best user experience.
-
-**Aem Development** (December 2017 – Present)
-
-*   Developed a customer service system for tracking customer orders, shipping details, and payment information through a mobile app.
-*   Implemented a web application for monitoring and analysis of customer relationships, resulting in a 20% increase in customer retention.
-
-**Note:** This resume is based solely on the provided text. It lacks details about specific projects, technologies used, and quantifiable achievements.
+Note: The job posting does not contain any information about Ram Lal's qualifications or experience.

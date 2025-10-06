@@ -1,1 +1,23 @@
-I don't know.
+Here's the extracted information:
+
+Name: Ashish Sharma
+
+Contact:
+- Email: asish.sharma@email.com
+- Phone: (555)123-4567
+
+Education:
+- Lourdes Western University - Bachelor’s Degree in Mechanical Engineering • Orlando, Florida
+
+Experience:
+- Jam Industries (August 2017) - Mechanical Engineer 
+    * Designed a stronger, more efficient manufacturing line to increase production by 7%.
+    * Developed a process to ensure proper product quality and consistency.
+- Suck Tech (September 2018) - Mechanical Engineer 
+    * Designed a stronger, more efficient manufacturing line to increase production by 7%.
+    * Developed a process to ensure proper product quality and consistency.
+
+Skills:
+- CAD modeling
+- Machining
+- Testing and assembling

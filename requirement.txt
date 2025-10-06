@@ -3,4 +3,5 @@ pymupdf4llm
 langchain
 langchain_core
 langchain_ollama
+json
 

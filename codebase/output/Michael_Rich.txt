@@ -1,1 +1,41 @@
-I don’t know.
+Here's the extracted information:
+
+**Name:** Michael Rich
+
+**Contact:**
+
+* Email: michael.rich@email.com
+* Phone: (555)123-4567
+* Location: Edgar Springs, MO
+
+**Education:** Bachelor's Degree in Computer Science
+
+**Experience:**
+
+1. **BlueTech Software**
+	* Los Angeles, California (July 2019 - Present)
+		+ Researched and created a new application, resulting in a 1.3x increase in sales.
+2. **Geeks 4 Nerds**
+	* Los Angeles, California (October 2016)
+		+ Designed and implemented a new cloud-based mobile POS platform, resulting in a 50% increase in customer retention.
+3. **Mezzanine**
+	* Los Angeles, California (May 2018)
+		+ Developed a collaborative environment for all team members.
+		+ Designed a new web application to increase collaboration among design, engineering and sales teams, resulting in a 10% increase in revenue in one quarter.
+		+ Built a custom web application for a major client, successfully delivering an integrated CRM system in just 2 weeks.
+
+**Skills:**
+
+* C
+* Java
+* SDLC
+* Software Development
+* Linux
+* C#
+
+**Achievements:**
+
+* Increased sales by 1.3x at BlueTech Software
+* Increased customer retention by 50% at Geeks 4 Nerds
+* Increased revenue by 10% at Mezzanine
+* Successfully delivered an integrated CRM system in just 2 weeks for a major client

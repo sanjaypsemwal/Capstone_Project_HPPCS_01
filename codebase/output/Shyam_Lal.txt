@@ -1,33 +1,28 @@
-**Shyam Lal**
-(555)123-4567 | shyam.lal@email.com | San Diego, CA
+Here's the extracted information:
 
-**Summary**
-
-Assertive and confident office assistant with 5 years of experience providing outstanding customer service and support.
-
-**Experience**
-
-**Office Assistant | Xerox Assist | Chicago, Illinois | July 2019 - Present**
-
-*   Supported the multiple departments by organizing, filing and maintaining a spreadsheet of employee schedules, including hours, leave and vacation.
-*   Provided support for multiple department managers and their assistants.
-*   Updated and maintained the client portal.
-*   Handled the scheduling of multiple hours for multiple project managers and analysts.
-*   Successfully trained one new employee during the quarter.
-*   Maintained a database of client information with proper client approval processes.
-
-**Server | Boulder Eatery | Chicago, Illinois | December 2017**
-
-*   Created a new website for the graphics department, which increased sales by $50k.
-*   Increased sales by 20% by providing customer service via phone, email and social media.
-*   Actively participated in teamwork with marketing department by acquiring new clients, increasing revenue by 10%.
-*   Handled over 60 orders per day.
-*   Managed inventory of over 200 products, including required inventory levels for each new product release.
-
-**Skills**
-
-Microsoft Office, Communication Skills, Computer Literacy, Microsoft Excel, Microsoft Outlook, Bilingual, Spanish
-
-**Education**
-
-High School Diploma | Concord Charter School | Chicago, Illinois
+* Name: Shyam Lal
+* Contact:
+	+ Phone: (555)123-4567
+	+ Email: shyam.lal@email.com
+	+ Location: San Diego, CA
+* Education:
+	+ High School Diploma | Concord Charter School | Chicago, Illinois
+* Experience:
+	+ Office Assistant | Xerox Assist | Chicago, Illinois (July 2019 - Present)
+		- Supported multiple departments by organizing, filing and maintaining a spreadsheet of employee schedules.
+	+ Server | Boulder Eatery | Chicago, Illinois (December 2017)
+* Skills:
+	+ Microsoft Office
+	+ Communication Skills
+	+ Computer Literacy
+	+ Microsoft Excel
+	+ Microsoft Outlook
+	+ Bilingual, Spanish
+* Achievements:
+	+ Created a new website for the graphics department, which increased sales by $50k.
+	+ Increased sales by 20% by providing customer service via phone, email and social media.
+	+ Actively participated in teamwork with marketing department by acquiring new clients, increasing revenue by 10%.
+	+ Handled over 60 orders per day.
+	+ Managed inventory of over 200 products, including required inventory levels for each new product release.
+	+ Successfully trained one new employee during the quarter.
+	+ Maintained a database of client information with proper client approval processes.

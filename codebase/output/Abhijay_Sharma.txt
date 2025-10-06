@@ -1,30 +1,36 @@
-Okay, here is a professional resume based on the provided document content:
+Here is the extracted information:
 
-**Abhijay Sharma**
-(555)123-4567 | abhijay.sharma@email.com | Inkom, ID
+Name:
+- Abhijay Sharma
 
-**Summary**
+Contact:
+- Phone: (555)123-4567
+- Email: abhijay.sharma@email.com
 
-Teacher with 6 years of experience providing educational guidance to children, accompanied by a proven track record of passion and dedication to the job.
+Education:
+- Bachelor's Degree in Early Childhood Education, Krebs Mountain College
 
-**Experience**
+Experience:
+- Teacher, Teaching Schools | Los Angeles, California
+  - April 2019 - Present
+    * Trained and developed a special needs student throughout a 10-month period, sending her on to higher education.
+- Senior Teacher, Happy Acres | Los Angeles, California
+  - February 2016
+    * Trained 9 new teachers in the methodology and content of the special education program.
+- Customer Service, Customer Service | Los Angeles, California
+  - December 2017
+    * Directed a team of 4 customer service reps on a daily basis, handling employee training and development of new employees.
+    * Interacted with over 100 customers per week, providing a high level of customer service.
+    * Managed a team of 5 customer service agents, ensuring the highest quality of service and accuracy in all details.
+    * Coached and trained 2 new employees in the art of customer service, leading to the expansion of the team to 8 employees.
+    * Continued to expand upon the company's customer service model by developing a customer service tree to increase product sales by $30k.
 
-**Teaching Schools | Los Angeles, California**
-**Teacher | April 2019 - Present**
+Skills:
+- Passion for teaching
+- Proven track record of dedication
 
-*   Trained and developed a special needs student throughout a 10-month period, sending her on to higher education.
-*   Provided positive reinforcement to 64 students throughout the year, improving attendance and test scores.
-*   Accomplished Best Practices for handling challenging students by implementing an A to Z student life management approach.
-*   Recognized as a model teacher by the local community and was invited to attend teacher professional development conferences.
-
-**Maybelline Cosmetics | Los Angeles, California**
-**Customer Service | December 2017**
-
-**Education**
-
-**Krebs Mountain College | Los Angeles, California**
-**Bachelor’s Degree in Early Childhood Education**
-
-**Skills**
-
-Bilingual, Computer Skills, Teaching, Writing Skills, Childcare, Communication Skills, Behavior Management
+Achievements:
+- Trained and developed a special needs student, sending her on to higher education.
+- Trained 9 new teachers in the methodology and content of the special education program.
+- Expanded team size from 4 to 8 employees through effective coaching and training.
+- Increased product sales by $30k through development of customer service model.

@@ -1,51 +1,37 @@
-Okay, here is a professional resume based on the provided document content:
+Here's the extracted information from the provided resumes:
 
 **Paul Lee**
-paul.lee@email.com
-(555)123-4567
-Monument, KS
 
-**Summary**
+* Name: Paul Lee
+* Contact:
+	+ Email: paul.lee@email.com
+	+ Phone: (555)123-4567
+	+ Location: Monument, KS
+* Summary: Hardworking warehouse worker with 6 years of experience with extensive knowledge in handling incoming products and coordinating inventory levels to meet shipping deadlines.
+* Experience:
+	+ Warehouse Worker, Oil Co. • Los Angeles, California (February 2019 - Present)
+		- Handled an average of 90 customer interactions per day, while maintaining high standards of cleanliness and efficiency.
+* Skills:
+	+ Warehouse Experience
+	+ Customer Service
+	+ Microsoft Office
+	+ Microsoft Word
 
-Hardworking warehouse worker with 6 years of experience in handling incoming products and coordinating inventory levels to meet shipping deadlines.
+**Georges Vanier Secondary School • Los Angeles, California**
 
-**Experience**
+* Education: High School Diploma
 
-**Warehouse Agent**
-Friendly Warehouse • Los Angeles, California
-June 2015 – Present
+**Other Achievements**
 
-*   Delivered shipments to customers on time and as expected.
-*   Created a high-quality customer experience by ensuring that the delivery was complete and accurate.
-*   Maintained inventory accuracy by ensuring that the correct product is sold to the correct customer.
-*   Recognized $500k in savings in the warehouse through improved forecasting, inventory management and shipping efficiency.
-*   Maintained warehouse floor safety and stocking practices by ensuring there was no wasted space.
+* Developed a reputation for delivering unprecedented customer service for over 3 years.
+* Researched new products and services and directed them to appropriate departments.
+* Maintained a database for tracking of inventory by price, SKU, item and vendor.
+* Outfitted 12 new employees with proper equipment for inventory management.
+* Delivered shipments to customers on time and as expected.
+* Created a high-quality customer experience by ensuring that the delivery was complete and.
+* Focused on improving the overall efficiency of the warehouse, resulting in a 5% reduction in shipping costs.
+* Improved customer service by reducing the number of handling errors by 50%.
+* Maintained the highest accuracy rate of all workers, with an average error rate of 1.7% and averaging $500 in sales per week.
+* Increased customer retention by 20% through a re-design of promotional material.
 
-**Warehouse Worker**
-Chipco • Los Angeles, California
-June 2017
-
-*   Maintained inventory accuracy by ensuring that the correct product is sold to the correct customer.
-*   Recognized $500k in savings in the warehouse through improved forecasting, inventory management and shipping efficiency.
-*   Maintained warehouse floor safety and stocking practices by ensuring there was no wasted space.
-
-**Warehouse Worker**
-Oil Co. • Los Angeles, California
-February 2019 – Present
-
-*   Handled an average of 90 customer interactions per day, while maintaining high standards of cleanliness and efficiency.
-
-**Skills**
-
-*   Forklift
-*   Computer Literacy
-*   Warehouse Experience
-*   Customer Service
-*   Microsoft Office
-*   Microsoft Word
-*   Warehouse Distribution
-
-**Education**
-
-High School Diploma
-Georges Vanier Secondary School • Los Angeles, California
+Note: The job posting for the Experienced Java Software Engineer does not contain any information that can be extracted from Paul Lee's resume.

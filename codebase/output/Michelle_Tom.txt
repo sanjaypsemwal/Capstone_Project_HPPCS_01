@@ -1,1 +1,25 @@
-I don't know.
+Here's the extracted information:
+
+**Name:** Michelle Tom
+
+**Contact:**
+
+*   Email: michelle.tom@email.com
+*   Phone: (555)123-4567
+
+**Location:** Swedesboro, NJ
+
+**Summary:** Experienced financial analyst with 5 years of experience working with financial trading strategies and algorithms.
+
+**Experience:**
+
+*   **Financial Analyst** (Hedge Fund, Houston, Texas) - September 2019 - Present
+    *   Implemented monthly budget tracking on a weekly basis, resulting in a 20% reduction in overall expenses.
+*   **Accountant** (Accounting Talent, Houston, Texas) - October 2016
+    *   Generated an average of 18 invoices per day.
+
+**Skills:** Budgeting, Forecasting, Financial Modeling, Microsoft Excel, Microsoft Office, Microsoft Word, Financial Analysis
+
+**Education:**
+
+*   Bachelor's Degree in Finance Krebs Mountain College • Houston, Texas
