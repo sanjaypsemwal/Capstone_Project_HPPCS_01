@@ -25,7 +25,7 @@ Here's the extracted information:
 		+ Built a custom web application for a major client, successfully delivering an integrated CRM system in just 2 weeks.
 
 **Skills:**
-
+	
 * C
 * Java
 * SDLC
